@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\OneDrive\Infuse\InfuseGame\PlayInfuse_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.609855 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.738454 ms
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 0.493627 ms (FindLiveObjects: 0.053507 ms CreateObjectMapping: 0.014227 ms MarkObjects: 0.325063 ms  DeleteObjects: 0.091549 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1cd0 -> priority: 1 
